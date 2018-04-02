@@ -1,0 +1,21 @@
+body,h3,h2,h1,ul{
+	margin: 0;
+}
+.App-header{
+	background: black;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+.app-content {
+    background: lightblue;
+}
+.Topicsection{
+	background: yellow;
+}
+.userpage{
+	background: red;
+}
+.app-content,.Topicsection,.userpage{
+	min-height: calc(100vh - 68px );
+}
