@@ -44,7 +44,7 @@ const Home = () => (
 
 const About = () => (
   <div>
-    <h2>About</h2>
+    <h2>About page</h2>
   </div>
 );
 
